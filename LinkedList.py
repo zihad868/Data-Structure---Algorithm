@@ -64,6 +64,7 @@ class Linked_list:
             else:
                 previous = current
                 current = current.next_node
+        return current
     
     def insert(self, data, index):
         if index == 0:
