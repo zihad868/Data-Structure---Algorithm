@@ -8,7 +8,7 @@ class TreeNode:
 # Example binary tree:
 #         1
 #       /   \
-#      2     3
+#      2     3        Full Binary Tree 
 #     / \   / \
 #    4   5 6   7
 
